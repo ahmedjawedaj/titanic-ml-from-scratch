@@ -1,0 +1,11 @@
+# Project dependencies. Choose a PyTorch build compatible with your runtime.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+networkx
+torch
+jupyterlab
+nbformat
+ipython
